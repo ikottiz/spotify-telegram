@@ -55,3 +55,10 @@ Display what you are currently listening to on Spotify directly to Telegram.
     ```
 
 8. Use the message ID in "user_data.js" for further configuration.
+
+### 3. Launching
+1. To finally launch this project 
+```javascript
+node index.js
+```
+2.Voilà!
